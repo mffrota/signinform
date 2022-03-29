@@ -6,5 +6,5 @@ Este projeto foi realizado durante o Curso Frontstart com o objetivo de aprender
 
 ### Aprendizados
 
-- HTML: principais tags, form, input, checkbox.
-- CSS: posicionar elementos usando display inline block e position absolute.
+- HTML: meta viewport, principais tags, form, input, checkbox.
+- CSS: posicionar elementos usando inline style, position absolute e realtive.
