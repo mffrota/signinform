@@ -2,15 +2,16 @@
 body {
   font-family: "roboto", sans-serif;
   margin: 0;
-  background: #c7c7c7;
+  background: #FFF;
 }
 * {
   box-sizing: border-box;
 }
 .form-container {
-  background: #fff;
+  background: #F7F7F7;
   margin: 150px auto;
   width: 400px;
+  border: 1px solid #EEF0F1;
 }
 form {
   padding: 20px;
